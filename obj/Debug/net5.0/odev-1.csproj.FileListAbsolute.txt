@@ -1,0 +1,16 @@
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/bin/Debug/net5.0/odev-1
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/bin/Debug/net5.0/odev-1.deps.json
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/bin/Debug/net5.0/odev-1.runtimeconfig.json
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/bin/Debug/net5.0/odev-1.runtimeconfig.dev.json
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/bin/Debug/net5.0/odev-1.dll
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/bin/Debug/net5.0/ref/odev-1.dll
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/bin/Debug/net5.0/odev-1.pdb
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/obj/Debug/net5.0/odev-1.csproj.AssemblyReference.cache
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/obj/Debug/net5.0/odev-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/obj/Debug/net5.0/odev-1.AssemblyInfoInputs.cache
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/obj/Debug/net5.0/odev-1.AssemblyInfo.cs
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/obj/Debug/net5.0/odev-1.csproj.CoreCompileInputs.cache
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/obj/Debug/net5.0/odev-1.dll
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/obj/Debug/net5.0/ref/odev-1.dll
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/obj/Debug/net5.0/odev-1.pdb
+/home/anise/Desktop/Csharp/console-programlama/kodluyoruz/odev-1/obj/Debug/net5.0/odev-1.genruntimeconfig.cache

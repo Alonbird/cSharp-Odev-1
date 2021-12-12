@@ -1,1 +1,1 @@
-# Kodluyoruz C#-101 Ödev-1
+# cSharp-Odev-1
